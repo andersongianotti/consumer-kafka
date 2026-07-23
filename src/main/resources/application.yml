@@ -3,7 +3,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://andersongianotti:<db_password>@cluster0.gdebxo0.mongodb.net/?appName=Cluster0
+      uri: mongodb+srv://andersongianotti:FoAQ4bSpJaqcevcV@cluster0.gdebxo0.mongodb.net/?appName=Cluster0
   kafka:
     bootstrap-servers: localhost:9092
     consumer:
